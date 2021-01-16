@@ -1,8 +1,9 @@
 ﻿using System;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
-namespace _11KeyRevolver
+namespace Test
 {
     class Program
     {
@@ -11,56 +12,54 @@ namespace _11KeyRevolver
             int bulletPrice = int.Parse(Console.ReadLine());
             int gunBarrelSize = int.Parse(Console.ReadLine());
 
-            var bulletsArray = Console.ReadLine()
+            int[] bulletsSequence = Console.ReadLine()
                 .Split()
                 .Select(int.Parse)
                 .ToArray();
 
-            var locksArray = Console.ReadLine()
-                .Split()
-                .Select(int.Parse)
-                .ToArray();
+            int[] locksSequence = Console.ReadLine()
+               .Split()
+               .Select(int.Parse)
+               .ToArray();
 
-            int inteligenceValue = int.Parse(Console.ReadLine());
+            int intelligence = int.Parse(Console.ReadLine());
 
-            var bullets = new Stack<int>(bulletsArray);
-            var locks = new Queue<int>(locksArray);
+            Stack<int> bullets = new Stack<int>(bulletsSequence);
+            Queue<int> locks = new Queue<int>(locksSequence);
 
-            int barrelsCounter = 0;
+            int bulletsShot = 0;
 
             while (bullets.Any() && locks.Any())
             {
-                int currentBullet = bullets.Peek();
-                int currentLock = locks.Peek();
+                int currBullet = bullets.Peek();
+                int currLock = locks.Peek();
 
-                if (currentBullet <= currentLock)
+                if (currBullet <= currLock)
                 {
                     Console.WriteLine("Bang!");
                     bullets.Pop();
-                    barrelsCounter++;
                     locks.Dequeue();
+                    bulletsShot++;
                 }
                 else
                 {
                     Console.WriteLine("Ping!");
                     bullets.Pop();
-                    barrelsCounter++;
+                    bulletsShot++;
                 }
 
-                if (bullets.Any() && barrelsCounter % gunBarrelSize == 0)
+                if (bullets.Any() && bulletsShot % gunBarrelSize == 0)
                 {
                     Console.WriteLine("Reloading!");
                 }
             }
-
-            if (locks.Count > 0)
+            if (locks.Any())
             {
                 Console.WriteLine($"Couldn't get through. Locks left: {locks.Count}");
             }
             else
             {
-                int totalMoneyForBullets = barrelsCounter * bulletPrice;
-                Console.WriteLine($"{bullets.Count} bullets left. Earned ${inteligenceValue - totalMoneyForBullets}");
+                Console.WriteLine($"{bullets.Count} bullets left. Earned ${intelligence - (bulletsShot * bulletPrice)}");
             }
         }
     }

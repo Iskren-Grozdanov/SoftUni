@@ -1,0 +1,12 @@
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.exe
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.deps.json
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.json
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.dev.json
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.dll
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.pdb
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfoInputs.cache
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfo.cs
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.dll
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.pdb
+C:\Users\isko\source\repos\StacksQueues\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.genruntimeconfig.cache
