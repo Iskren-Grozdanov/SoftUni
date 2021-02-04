@@ -1,0 +1,13 @@
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.exe
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.deps.json
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.runtimeconfig.json
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.runtimeconfig.dev.json
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.dll
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.pdb
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.csprojAssemblyReference.cache
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.AssemblyInfoInputs.cache
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.AssemblyInfo.cs
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.dll
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.pdb
+C:\Users\isko\source\repos\Sets and Dictioners Exercises\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.genruntimeconfig.cache
