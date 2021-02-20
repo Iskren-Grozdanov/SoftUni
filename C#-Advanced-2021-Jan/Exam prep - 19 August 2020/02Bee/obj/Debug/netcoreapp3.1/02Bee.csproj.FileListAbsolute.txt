@@ -1,0 +1,13 @@
+C:\Users\isko\source\repos\Exam Prep\02Bee\bin\Debug\netcoreapp3.1\02Bee.exe
+C:\Users\isko\source\repos\Exam Prep\02Bee\bin\Debug\netcoreapp3.1\02Bee.deps.json
+C:\Users\isko\source\repos\Exam Prep\02Bee\bin\Debug\netcoreapp3.1\02Bee.runtimeconfig.json
+C:\Users\isko\source\repos\Exam Prep\02Bee\bin\Debug\netcoreapp3.1\02Bee.runtimeconfig.dev.json
+C:\Users\isko\source\repos\Exam Prep\02Bee\bin\Debug\netcoreapp3.1\02Bee.dll
+C:\Users\isko\source\repos\Exam Prep\02Bee\bin\Debug\netcoreapp3.1\02Bee.pdb
+C:\Users\isko\source\repos\Exam Prep\02Bee\obj\Debug\netcoreapp3.1\02Bee.AssemblyInfoInputs.cache
+C:\Users\isko\source\repos\Exam Prep\02Bee\obj\Debug\netcoreapp3.1\02Bee.AssemblyInfo.cs
+C:\Users\isko\source\repos\Exam Prep\02Bee\obj\Debug\netcoreapp3.1\02Bee.csproj.CoreCompileInputs.cache
+C:\Users\isko\source\repos\Exam Prep\02Bee\obj\Debug\netcoreapp3.1\02Bee.dll
+C:\Users\isko\source\repos\Exam Prep\02Bee\obj\Debug\netcoreapp3.1\02Bee.pdb
+C:\Users\isko\source\repos\Exam Prep\02Bee\obj\Debug\netcoreapp3.1\02Bee.genruntimeconfig.cache
+C:\Users\isko\source\repos\Exam Prep\02Bee\obj\Debug\netcoreapp3.1\02Bee.csprojAssemblyReference.cache
