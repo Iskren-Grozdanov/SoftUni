@@ -1,0 +1,13 @@
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.exe
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.deps.json
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.runtimeconfig.json
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.runtimeconfig.dev.json
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.dll
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.pdb
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.csprojAssemblyReference.cache
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.AssemblyInfoInputs.cache
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.AssemblyInfo.cs
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.dll
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.pdb
+C:\Users\isko\source\repos\Exam Prep\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.genruntimeconfig.cache
