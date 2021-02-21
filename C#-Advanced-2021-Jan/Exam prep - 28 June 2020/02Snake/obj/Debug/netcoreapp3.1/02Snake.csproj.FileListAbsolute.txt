@@ -1,0 +1,13 @@
+C:\Users\isko\source\repos\Exam Prep\02Snake\bin\Debug\netcoreapp3.1\02Snake.exe
+C:\Users\isko\source\repos\Exam Prep\02Snake\bin\Debug\netcoreapp3.1\02Snake.deps.json
+C:\Users\isko\source\repos\Exam Prep\02Snake\bin\Debug\netcoreapp3.1\02Snake.runtimeconfig.json
+C:\Users\isko\source\repos\Exam Prep\02Snake\bin\Debug\netcoreapp3.1\02Snake.runtimeconfig.dev.json
+C:\Users\isko\source\repos\Exam Prep\02Snake\bin\Debug\netcoreapp3.1\02Snake.dll
+C:\Users\isko\source\repos\Exam Prep\02Snake\bin\Debug\netcoreapp3.1\02Snake.pdb
+C:\Users\isko\source\repos\Exam Prep\02Snake\obj\Debug\netcoreapp3.1\02Snake.AssemblyInfoInputs.cache
+C:\Users\isko\source\repos\Exam Prep\02Snake\obj\Debug\netcoreapp3.1\02Snake.AssemblyInfo.cs
+C:\Users\isko\source\repos\Exam Prep\02Snake\obj\Debug\netcoreapp3.1\02Snake.csproj.CoreCompileInputs.cache
+C:\Users\isko\source\repos\Exam Prep\02Snake\obj\Debug\netcoreapp3.1\02Snake.dll
+C:\Users\isko\source\repos\Exam Prep\02Snake\obj\Debug\netcoreapp3.1\02Snake.pdb
+C:\Users\isko\source\repos\Exam Prep\02Snake\obj\Debug\netcoreapp3.1\02Snake.genruntimeconfig.cache
+C:\Users\isko\source\repos\Exam Prep\02Snake\obj\Debug\netcoreapp3.1\02Snake.csprojAssemblyReference.cache
