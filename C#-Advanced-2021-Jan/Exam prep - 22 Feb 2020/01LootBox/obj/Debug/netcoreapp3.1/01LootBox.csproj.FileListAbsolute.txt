@@ -1,0 +1,12 @@
+C:\Users\isko\source\repos\Exam Prep\01LootBox\bin\Debug\netcoreapp3.1\01LootBox.exe
+C:\Users\isko\source\repos\Exam Prep\01LootBox\bin\Debug\netcoreapp3.1\01LootBox.deps.json
+C:\Users\isko\source\repos\Exam Prep\01LootBox\bin\Debug\netcoreapp3.1\01LootBox.runtimeconfig.json
+C:\Users\isko\source\repos\Exam Prep\01LootBox\bin\Debug\netcoreapp3.1\01LootBox.runtimeconfig.dev.json
+C:\Users\isko\source\repos\Exam Prep\01LootBox\bin\Debug\netcoreapp3.1\01LootBox.dll
+C:\Users\isko\source\repos\Exam Prep\01LootBox\bin\Debug\netcoreapp3.1\01LootBox.pdb
+C:\Users\isko\source\repos\Exam Prep\01LootBox\obj\Debug\netcoreapp3.1\01LootBox.AssemblyInfoInputs.cache
+C:\Users\isko\source\repos\Exam Prep\01LootBox\obj\Debug\netcoreapp3.1\01LootBox.AssemblyInfo.cs
+C:\Users\isko\source\repos\Exam Prep\01LootBox\obj\Debug\netcoreapp3.1\01LootBox.csproj.CoreCompileInputs.cache
+C:\Users\isko\source\repos\Exam Prep\01LootBox\obj\Debug\netcoreapp3.1\01LootBox.dll
+C:\Users\isko\source\repos\Exam Prep\01LootBox\obj\Debug\netcoreapp3.1\01LootBox.pdb
+C:\Users\isko\source\repos\Exam Prep\01LootBox\obj\Debug\netcoreapp3.1\01LootBox.genruntimeconfig.cache
